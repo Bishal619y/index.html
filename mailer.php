@@ -10,7 +10,7 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
     }
 
     // Recipient email address.
-    $to = "bishalranjansutar6292gmail.com";  // Change to your recipient email
+    $to = "bishalranjansutar629gmail.com";  // Change to your recipient email
 
     // Email subject.
     $subject = "Personalized Message from $name";
